@@ -15,12 +15,10 @@
 .DS_Store
 .prettierignore
 
-
-/assets
+/assets/fonts
 /desing
 
 *.jpg
-*.jpeg
 *.png
 
 README-template.md
